@@ -12,5 +12,5 @@ I have an extremely limited amount of time to work on this, but I hope to post m
 
 ## TODO
 
-- Set up an automation with Pandoc (or something) to convert Markdown to PDF/EPUB/etc, and include those exported files in this report, to make it easier for non-programmers and lazy people to digest.
+- Set up an automation with [Pandoc](https://pandoc.org/) (or something) to convert Markdown to PDF/EPUB/etc, and include those exported files in this report, to make it easier for non-programmers and lazy people to digest.
 - Convert more Twitter threads to Markdown and post them here.
