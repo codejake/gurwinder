@@ -2,6 +2,8 @@
 
 I wanted an easy way to read and re-read Gurwinder's latest Twitter thread, so I converted it to Markdown.
 
+I have left the text largely unchanged, aside from minor typgraphical corrections and the occasional adding of a link for context.
+
 I have an extremely limited amount of time to work on this, but I hope to post more Twitter threads here.
 
 ## Threads
