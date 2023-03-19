@@ -7,7 +7,7 @@ I have left the text largely unchanged, aside from minor typgraphical correction
 I have an extremely limited amount of time to work on this, but I hope to post more Twitter threads here.
 
 ## Threads
-- [March 17, 2023 - 40 Mind-Expanding Concepts You Should Know](2023-03-17.markdown) - [PDF](2023-03-17.pdf)
+- March 17, 2023 - 40 Mind-Expanding Concepts You Should Know [Markdown](2023-03-17.markdown) - [PDF](2023-03-17.pdf)
 
 
 ## TODO
